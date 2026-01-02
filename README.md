@@ -58,11 +58,6 @@ JavaScript is my tool, design is my escape, and AI is my curiosity.
     
   </a>
 </p>
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Aayush4518&theme=react&hide_border=true)](https://github.com/Aayush4518)
-
-</div>
 
 
 
