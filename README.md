@@ -51,11 +51,11 @@ JavaScript is my tool, design is my escape, and AI is my curiosity.
 </table>
 </p>
 
-<h2 align="center">📊 GitHub Contribution Streak</h2>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Aayush4518&theme=react" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=Aayush4518&theme=react" alt="GitHub Streak"/>
+  </a>
+</p>
 
 
 <h2 align="center">📊 GitHub Contributions Graph</h2>
