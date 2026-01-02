@@ -1,10 +1,11 @@
 <!-- Typing SVG by DenverCoder1 (https://github.com/DenverCoder1/readme-typing-svg) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&pause=500&width=435&lines=Hi%2C+I'm+Aayush!;Welcome+to+my+GitHub" alt="Typing SVG" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&pause=500&width=435&lines=Hi%2C+I'm+Aayush!;Welcome+to+my+GitHub" alt="Typing SVG" />
 </p>
 
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?Aayush4518" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Aayush4518" alt="Profile Views" />
 </p>
 
 <h2 align="center">👨‍💻 About Me</h2>
