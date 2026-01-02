@@ -51,6 +51,12 @@ JavaScript is my tool, design is my escape, and AI is my curiosity.
 </table>
 </p>
 
+<h2 align="center">📊 GitHub Contribution Streak</h2>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=Aayush4518&theme=react" alt="GitHub Streak"/>
+  </a>
+</p>
 
 <h2 align="center">📊 GitHub Contributions Graph</h2>
 <p align="center">
@@ -59,12 +65,6 @@ JavaScript is my tool, design is my escape, and AI is my curiosity.
   </a>
 </p>
 
-<h2 align="center">📊 GitHub Contributions Graph</h2>
-<p align="center">
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aayush4518&theme=react&hide_border=true" alt="GitHub Activity Graph"/>
-  </a>
-</p>
 
 <h2 align="center">📫 Connect with Me</h2>
 <p align="center">
