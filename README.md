@@ -1,6 +1,6 @@
 <!-- Typing SVG by DenverCoder1 (https://github.com/DenverCoder1/readme-typing-svg) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&pause=500&width=435&lines=Hi%2C+I'm+Aayush!;Welcome+to+my+GitHub" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=200&center=true&width=435&lines=Hi%2C+I'm+Aayush!;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </p>
 
 
