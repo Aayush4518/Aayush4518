@@ -59,6 +59,13 @@ JavaScript is my tool, design is my escape, and AI is my curiosity.
   </a>
 </p>
 
+<h2 align="center">📊 GitHub Contributions Graph</h2>
+<p align="center">
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aayush4518&theme=react&hide_border=true" alt="GitHub Activity Graph"/>
+  </a>
+</p>
+
 <h2 align="center">📫 Connect with Me</h2>
 <p align="center">
 <table align="center">
