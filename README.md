@@ -64,7 +64,7 @@ JavaScript is my tool, design is my escape, and AI is my curiosity.
 <table align="center">
   <tr>
     <td align="center">
-      <a href="www.linkedin.com/in/aayush-singh-766a77290" target="_blank">
+      <a href="https://www.linkedin.com/in/aayush-singh-766a77290" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/><br/>
         <sub><b>LinkedIn</b></sub>
       </a>
