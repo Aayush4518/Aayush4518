@@ -28,8 +28,7 @@ JavaScript is my tool, design is my escape, and AI is my curiosity.
       <sub><b>JavaScript</b></sub>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-" width="40" height="40" alt="JavaScript"/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40" alt="TS" />
       <sub><b>TypeScript</b></sub>
     </td>
     <td align="center">
@@ -37,11 +36,11 @@ JavaScript is my tool, design is my escape, and AI is my curiosity.
       <sub><b>React</b></sub>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="HTML5"/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MDB"/><br/>
       <sub><b>MongoDB</b></sub>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" alt="CSS3"/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" alt="DOCKER"/><br/>
       <sub><b>Dcoker</b></sub>
     </td>
     <td align="center">
