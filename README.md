@@ -28,7 +28,7 @@ JavaScript is my tool, design is my escape, and AI is my curiosity.
       <sub><b>JavaScript</b></sub>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40" alt="TS" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40" alt="TS" /><br/>
       <sub><b>TypeScript</b></sub>
     </td>
     <td align="center">
@@ -41,15 +41,15 @@ JavaScript is my tool, design is my escape, and AI is my curiosity.
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" alt="DOCKER"/><br/>
-      <sub><b>Dcoker</b></sub>
+      <sub><b>Docker</b></sub>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/><br/>
-      <sub><b>Python</b></sub>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="NexT"/><br/>
+      <sub><b>Next.js</b></sub>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"/><br/>
-      <sub><b>C</b></sub>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="40" height="40" alt="FB"/><br/>
+      <sub><b>Firebase</b></sub>
     </td>
   </tr>
 </table>
