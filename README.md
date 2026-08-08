@@ -24,8 +24,8 @@ JavaScript is my tool, design is my escape, and AI is my curiosity.
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/><br/>
-      <sub><b>JavaScript</b></sub>
+      <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/prisma/prisma-original.svg" width="40" height="40" alt="Prisma"/><br/>
+      <sub><b>Prisma</b></sub>
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40" alt="TS" /><br/>
@@ -40,16 +40,22 @@ JavaScript is my tool, design is my escape, and AI is my curiosity.
       <sub><b>MongoDB</b></sub>
     </td>
     <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="Postgresql"/><br/>
+      <sub><b>Postgresql</b></sub>
+    </td>
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" alt="DOCKER"/><br/>
       <sub><b>Docker</b></sub>
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="NexT"/><br/>
       <sub><b>Next.js</b></sub>
-    </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="40" height="40" alt="FB"/><br/>
-      <sub><b>Firebase</b></sub>
+      <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/fedora/fedora-original.svg" width="40" height="40" alt="Fedora"/><br/>
+      <sub><b>Fedora</b></sub>
+    <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/googlecloud/googlecloud-original.svg" width="40" height="40" alt="GCP"/><br/>
+      <sub><b>GCP</b></sub>
     </td>
   </tr>
 </table>
